@@ -7,7 +7,7 @@
 3. 現在位置から一番近いマーカーまでの距離を表示。
 
 ## 完成イメージ
-<img width="800" alt="example" src="https://user-images.githubusercontent.com/8760841/88764936-bcc99c00-d1b0-11ea-93e0-852a3f3fe296.png">
+<img width="600" alt="example" src="https://user-images.githubusercontent.com/8760841/88764936-bcc99c00-d1b0-11ea-93e0-852a3f3fe296.png">
 画像には 3. の距離計算は実装されていません。
 
 ## 参考
