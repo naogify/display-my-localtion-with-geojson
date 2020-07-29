@@ -1,0 +1,15 @@
+{
+  "name": "sack-pre-event-demo01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start" : "http-server -i -o",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Naoki Ohashi",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^0.12.3"
+  }
+}
